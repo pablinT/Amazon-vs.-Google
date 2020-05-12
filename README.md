@@ -8,5 +8,5 @@ Se visualizan los datos y se encuentran las intersecciones de las acciones de am
 
 Las fechas donde las acciones coinciden se exportan a un archivo de Excel.
 
-amazonVsGoogle --> [Abrir Google Colab]( https://colab.research.google.com/drive/1ZQWglVTyatt8mVjXQtof8oDr38q6FZ6r?usp=sharing)
+amazonVsGoogle --> [Abrir en Google Colab]( https://colab.research.google.com/drive/1ZQWglVTyatt8mVjXQtof8oDr38q6FZ6r?usp=sharing)
 
