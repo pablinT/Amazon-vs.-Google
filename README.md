@@ -6,6 +6,10 @@ Se visualizan los datos y se encuentran las intersecciones de las acciones de am
 
 https://github.com/pablinT/python_-becoming_a_Data_Scientist-/blob/master/avsG.png?raw=true
 
+![](https://github.com/pablinT/python_-becoming_a_Data_Scientist-/blob/master/avsG.png?raw=true =250x250)
+
+
+
 Las fechas donde las acciones coinciden se exportan a un archivo de Excel.
 
 amazonVsGoogle --> Open in Colab
