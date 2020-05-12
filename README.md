@@ -1,6 +1,6 @@
 # Amazon vs. Google
 
-Se comparan las acciones de Amazon y Google en un período de tiempo a elección. 
+Se comparan las acciones de Amazon y Google en un período dentro de ( 2009-11-04 : 2019-11-01 ) 
 
 Se visualizan los datos y se encuentran las intersecciones de las acciones de ambas empresas.
 
